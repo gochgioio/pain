@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+    line-height: 1.6;
+    background: black;
+    color: #333;
+}
+ol li p {
+    color: #555;
+}
+ol li img {
+    width: 20%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
